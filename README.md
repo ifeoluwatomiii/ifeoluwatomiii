@@ -6,6 +6,10 @@
 - ⚡ Fun fact: i enjoy conversing and sharing ideas with people, an introvert how doesnt mind a tinnie bit of social activities.
 
 
-https://media.giphy.com/media/U4LhzzpfTP7NZ4UlmH/giphy.gif
+
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifeoluwatomiii)](https://github.com/anuraghazra/github-readme-stats)
